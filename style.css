@@ -52,7 +52,7 @@ header.startup h1 {
 .btn-primary:hover {
   background-color: #ee4b08;
   border-color: #ee4b08;
-  border-width: 5px;
+  border-width: 10px;
   cursor: pointer;
 }
   
